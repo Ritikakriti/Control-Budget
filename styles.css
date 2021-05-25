@@ -1,0 +1,23 @@
+.navbar-dark{
+    background-color:black;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:black;
+  color: white;
+  text-align: center;
+}
+.con{
+    text-align: center;
+}
+.padd{
+    padding: 50px 0px;
+}
+.plane{
+    border:2px bold black;
+    background-color:white;
+    color:black;
+}
